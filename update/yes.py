@@ -1,2 +1,2 @@
 #nhoting
-print('hello i am AMBERVPN'
+print('fuck Da rUle'
